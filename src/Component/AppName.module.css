@@ -1,0 +1,36 @@
+.todoHeading{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+    /* background-color: red;
+    height: 60px;
+    padding: 10px 0 20px 0; */
+    /* transition: background-color,0.5s, transfrom, 0.5;
+    animation: hello 1s ease-out  0.2s infinite forwards; */
+  }
+
+  
+  /* @keyframes hello {
+    0%{
+        background-color: red;
+    }
+    25%{
+      background-color: blueviolet;
+    }
+    50%{
+      background-color: green;
+    }
+    75%{
+      background-color: orangered;
+    }
+    100%{
+        background-color: blue;
+    }
+    
+  } */
+
+  /* .todoHeading:hover{
+    background-color: yellow;
+    transform: translateY(10px);
+  } */
